@@ -9,7 +9,6 @@ function App() {
           
               <img src={kra} alt="" />
            
-          
             <marquee className="marq" >
             <div className='tab'><span className='text'>Gold 24KT - RS.5677.20 Per Gm</span></div>
             <div  className='tab2'><span className='text'>Gold 24KT - RS.5283.70 Per Gm</span></div>
